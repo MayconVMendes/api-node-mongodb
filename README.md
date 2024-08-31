@@ -8,3 +8,5 @@ Este projeto é uma API RESTful simples para o gerenciamento de usuários, const
 - **Prisma**: ORM (Object-Relational Mapping) para Node.js e TypeScript.
 - **MongoDB**: Banco de dados NoSQL utilizado para armazenamento de dados.
 - **Thunder Client**: Uma extensão leve para o Visual Studio Code que permite realizar testes de APIs.
+
+Por motivos de segurança, o arquivo .env não foi publicado, portando deverá ser criado e utilizar a variavel `DATABASE_URL="insira a forma da sua conexão"`
